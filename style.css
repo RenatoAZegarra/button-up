@@ -1,0 +1,51 @@
+button.search {
+    display: block;
+    background-color: rgb(245, 243, 243);
+    border-radius: 15px;
+    padding: 10px;
+    color: rgb(47, 160, 160) ;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(47, 160, 160);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 50px 50px 20px 50px;
+    width: 10%;
+    height: 3%;
+    cursor: pointer;
+}
+
+button.add { 
+    display: block;
+    background-color: aqua;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: aqua;
+    font-size: 25px;
+    margin: 0px 50px 20px 50px;
+    width: 3%;
+    height: 3%;
+    cursor: pointer;
+
+}
+
+button.create {
+    display: block;
+    background-color: blue;
+    color: white;
+    border-radius: 0%;
+    padding: 10px;
+    border-top: 2px solid black;;
+    border-right: 5px solid black;;
+    border-bottom: 5px solid black;;
+    border-left: 2px solid black;;
+    box-shadow: 3px;
+    margin: 0px 50px 20px 50px;
+    width: 15%;
+    height: 3%;
+    font-size: 25px;
+    cursor: pointer;
+}
